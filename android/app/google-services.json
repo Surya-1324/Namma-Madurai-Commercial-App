@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1054731279094",
+    "project_id": "nammamadurai-22c18",
+    "storage_bucket": "nammamadurai-22c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054731279094:android:11b15835f1ed2c87faaad7",
+        "android_client_info": {
+          "package_name": "com.nammamadurai.nammamadurai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054731279094-4heaobdqv2o67fb03dipq1d7iia1qmc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5qVn3BpVg3XEBu0zk6NaRAIJ-Hgxgzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054731279094-3ueksuh5710gerk1u2hor2a1ekm9jm3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1054731279094-59fe3k8ns93mbg7pom7aabue6e8d143s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nammamadurai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
